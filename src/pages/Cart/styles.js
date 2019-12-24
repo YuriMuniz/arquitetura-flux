@@ -62,7 +62,7 @@ export const ProductTable = styled.table`
 
     div {
         display: flex;
-        align-items: center;
+        align-items: baseline;
 
         input {
             border: 1px solid #ddd;
@@ -82,7 +82,7 @@ export const ProductTable = styled.table`
 
 export const Total = styled.div`
     display: flex;
-    align-items: baseline;
+    align-items: center;
 
     span {
         color: #999;
